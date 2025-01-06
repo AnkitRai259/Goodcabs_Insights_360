@@ -52,7 +52,7 @@ The objective of this project is to analyze GoodCabs' performance data to evalua
 
 
 Ankit Rai 
-[linkedin](www.linkedin.com/in/ankitrai259)
+[linkedin](https://www.linkedin.com/in/ankitrai259)
 
    
 
